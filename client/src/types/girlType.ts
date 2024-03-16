@@ -1,0 +1,20 @@
+export type GirlType = {
+  id: number;
+  name: string;
+  age: number;
+  bustSize: number;
+  height: number;
+  weight: number;
+  hairColor: string;
+  bodyComposition: string;
+  privateHaircut: string;
+  nationality: string;
+  looks: string;
+  city: string;
+  cityArea: string;
+  underground: string;
+  price: number;
+  desc: string;
+  mainPhoto: string;
+  phoneNumber: string;
+};
